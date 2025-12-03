@@ -1,0 +1,1 @@
+enum SuperAbility { heal, criticalDamage, blockRevert, boosting,absorbDamage, dodge, resurrect, stun, dice  }
